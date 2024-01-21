@@ -16,6 +16,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <vendor>Demo</vendor>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>
