@@ -8,4 +8,5 @@
   <comment>Т004</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.Товары</content>
 </mdclass:Subsystem>
