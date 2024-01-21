@@ -39,5 +39,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.НСИ</subsystems>
   <catalogs>Catalog.Товары</catalogs>
 </mdclass:Configuration>

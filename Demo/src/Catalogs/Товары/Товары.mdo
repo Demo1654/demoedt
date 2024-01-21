@@ -12,6 +12,7 @@
     <key>ru</key>
     <value>Товары</value>
   </synonym>
+  <comment>Т004</comment>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Товары.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.Товары.StandardAttribute.Description</inputByString>
