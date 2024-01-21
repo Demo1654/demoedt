@@ -8,5 +8,9 @@
   <comment>Т004</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
+  <explanation>
+    <key>ru</key>
+    <value>Т004</value>
+  </explanation>
   <content>Catalog.Товары</content>
 </mdclass:Subsystem>
