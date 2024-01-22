@@ -43,4 +43,5 @@
   <subsystems>Subsystem.НСИ</subsystems>
   <catalogs>Catalog.Товары</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
+  <documents>Document.Закупка</documents>
 </mdclass:Configuration>
