@@ -42,4 +42,5 @@
   </languages>
   <subsystems>Subsystem.НСИ</subsystems>
   <catalogs>Catalog.Товары</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
 </mdclass:Configuration>
